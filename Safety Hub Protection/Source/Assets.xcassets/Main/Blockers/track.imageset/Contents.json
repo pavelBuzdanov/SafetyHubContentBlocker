@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "track.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

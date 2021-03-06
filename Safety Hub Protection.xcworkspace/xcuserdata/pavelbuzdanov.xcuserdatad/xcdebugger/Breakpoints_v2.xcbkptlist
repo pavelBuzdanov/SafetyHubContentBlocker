@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A8D9E75D-9F12-4D0A-AD0B-B74A3EF3A097"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3648F790-0F68-44A0-8F55-AC7C9BF68DBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Safety Hub Protection/Application/MainVC/View/ButtonView/ButtonMainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3648F790-0F68-44A0-8F55-AC7C9BF68DBE - d9f7d9623543a49a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Safety_Hub_Protection.ButtonMainView.(setupView in _21C9B617E66A83912DFD5B6D7C30F0EB)() -&gt; ()"
+                  moduleName = "Safety Hub Protection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelbuzdanov/Desktop/Safety%20Hub%20Protection/Safety%20Hub%20Protection/Application/MainVC/View/ButtonView/ButtonMainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  uuid = "3648F790-0F68-44A0-8F55-AC7C9BF68DBE - aed449d7cbfe021f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Safety_Hub_Protection.ButtonMainView.(setupView in _21C9B617E66A83912DFD5B6D7C30F0EB)() -&gt; ()"
+                  moduleName = "Safety Hub Protection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelbuzdanov/Desktop/Safety%20Hub%20Protection/Safety%20Hub%20Protection/Application/MainVC/View/ButtonView/ButtonMainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F3F633C-75CB-4C46-A230-69AEACF01F4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Safety Hub Protection/Application/Helpers/SharedUserDefaults.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Keys"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
